@@ -42,4 +42,4 @@ print(f"Compression ratio: {ratio:.2f}")
 
 ## If you want to learn more...
 
-... please check out the markdown file `PROCESS.md`, where I explain my process throught the project. This is located in the library's [GitHub repo](https://github.com/coreymichaud/prompt-compression).
+... please check out the markdown file `WHATWASITHINKING.md`, where I explain my process throught the project. This is located in the library's [GitHub repo](https://github.com/coreymichaud/prompt-compression).
