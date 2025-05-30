@@ -2,17 +2,11 @@
 
 Are LLM's costing you too much in your application? This library will allow your prompts to have the minimum amount of text needed to convey what you want the LLM to do. This is perfect for prompts given by users, where they are constantly eating at your costs.
 
-## What is this suitable for?
+## Benefits of Minimizing Tokens
 
-- Chat bots
-- Local LLMS
-- Input that does not need to have a strict structure
-- Reducing text which reduces tokens which reduces $$$
-
-## What is this not suitable for?
-- Code
-- Math
-- Inputs that require structure, like reviewing a writing sample
+- Less tokens means more $$$ saved
+- Saving on compute, which helps out the environment
+- Faster LLM response time
 
 ## Install
 This package is available on [PyPI](https://pypi.org/project/promptcompression/):
